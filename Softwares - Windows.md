@@ -241,6 +241,7 @@ Open VPN|[openvpn.net](https://openvpn.net)|
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 OpenVPN  |[OpenVPN/openvpn](https://github.com/OpenVPN/openvpn)|<img src="https://img.shields.io/github/stars/OpenVPN/openvpn?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/OpenVPN/openvpn?style=for-the-badge" />|
+GUI.for.SingBox|[GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox)|<img src="https://img.shields.io/github/stars/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/GUI-for-Cores/GUI.for.SingBox?style=for-the-badge" />|
 
 # Player
 Name| Address | Star| Last Update|Desc
