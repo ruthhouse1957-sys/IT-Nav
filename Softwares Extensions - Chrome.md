@@ -81,11 +81,6 @@ Tab Muter|[Tab Muter](https://chromewebstore.google.com/detail/tab-muter/bnclejf
 Volume Master|[Volume Master](https://chromewebstore.google.com/detail/volume-master/jghecgabfgfdldnmbfkhmffcabddioke)|
 Smart Mute|[Smart Mute](https://chromewebstore.google.com/detail/smart-mute/apadglapdamclpaedknbefnbcajfebgh)|
 
-# Proxy Switcher
-Name| Address | Star| Last Update| Desc
--|-|-|-|-|
-ZeroOmega|[zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)|<img src="https://img.shields.io/github/stars/zero-peak/ZeroOmega?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/zero-peak/ZeroOmega?style=for-the-badge" />|
-
 # Monitor
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
