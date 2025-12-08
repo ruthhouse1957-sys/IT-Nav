@@ -135,6 +135,10 @@ Name| Address | Star| Last Update|Desc
 Autofac|[autofac/Autofac](https://github.com/autofac/Autofac)|<img src="https://img.shields.io/github/stars/autofac/Autofac?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/autofac/Autofac?style=for-the-badge&label=" />|
 Microsoft.Extensions.DependencyInjection|[NuGet](https://www.nuget.org/packages/Microsoft.Extensions.DependencyInjection)||||
 
+# HashMap 
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Faster.Map|[Wsm2110/Faster.Map](https://github.com/Wsm2110/Faster.Map)|<img src="https://img.shields.io/github/stars/Wsm2110/Faster.Map?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/Wsm2110/Faster.Map?style=for-the-badge" />|
 
 # Environment 
 Name| Address | Star| Last Update
