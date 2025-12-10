@@ -10,6 +10,14 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 spider-flow|[ssssssss-team/spider-flow](https://github.com/ssssssss-team/spider-flow)|<img src="https://img.shields.io/github/stars/ssssssss-team/spider-flow?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/ssssssss-team/spider-flow?style=for-the-badge" />|
 
+
+# JDK 
+Name| Address | Desc
+-|-|-|
+OpenJDK |[www.openlogic.com](https://www.openlogic.com/openjdk-downloads)||
+Temurin® JDK |[adoptium.net](https://adoptium.net/temurin/releases)||
+
+
 # Learn Guide
 Name| Address | Star| Last Update
 -|-|-|-|
