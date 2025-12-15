@@ -1,4 +1,4 @@
-NPM: [www.npmjs.com/(https://www.npmjs.com/)
+NPM: [www.npmjs.com](https://www.npmjs.com/)
 
 # API
 Chrome and Firefox
