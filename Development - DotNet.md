@@ -190,7 +190,7 @@ C# SCADA|[GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA)|<im
 # GraphQL
 Name| Address |Desc
 -|-|-|
-graphql.org|[graphql.org/community/tools-and-libraries/?tags=server&tags=c-net](https://graphql.org/community/tools-and-libraries/?tags=server&tags=c-net)|
+graphql.org|[graphql.org/community/tools-and-libraries/?tags=c-net](https://graphql.org/community/tools-and-libraries/?tags=c-net)|
 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
