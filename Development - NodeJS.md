@@ -1,6 +1,6 @@
 Name| Address |Desc
 -|-|-|
-NPM|[www.npmjs.com](https://www.npmjs.com/)|<img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/puppeteer/puppeteer?style=for-the-badge" />|
+NPM|[www.npmjs.com](https://www.npmjs.com/)|
 
 
 # API
