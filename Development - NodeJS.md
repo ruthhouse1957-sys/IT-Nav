@@ -3,6 +3,11 @@ Chrome and Firefox
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Puppeteer|[puppeteer/puppeteer](https://github.com/puppeteer/puppeteer)|<img src="https://img.shields.io/github/stars/puppeteer/puppeteer?style=for-the-badge" />|<img src="https://img.shields.io/github/last-commit/puppeteer/puppeteer?style=for-the-badge" />|
+# AWS
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+client-appsync|[aws/aws-sdk-js-v3](https://github.com/aws/aws-sdk-js-v3)|<img src="https://img.shields.io/github/stars/aws/aws-sdk-js-v3?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/aws/aws-sdk-js-v3?style=for-the-badge&label=" />|
+
 
 # CMS
 Contentful
