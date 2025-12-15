@@ -199,6 +199,7 @@ GraphQL for .NET|[graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotn
 ChilliCream GraphQL Platform|[ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform)|<img src="https://img.shields.io/github/stars/ChilliCream/graphql-platform?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ChilliCream/graphql-platform?style=for-the-badge&label=" />|Server
 GraphQL.Net|[chkimes/graphql-net](https://github.com/chkimes/graphql-net)|<img src="https://img.shields.io/github/stars/chkimes/graphql-net?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chkimes/graphql-net?style=for-the-badge&label=" />|Server
 Entity GraphQL|[EntityGraphQL/EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL)|<img src="https://img.shields.io/github/stars/EntityGraphQL/EntityGraphQL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/EntityGraphQL/EntityGraphQL?style=for-the-badge&label=" />|Server
+NGraphQL |[rivantsov/ngraphql](https://github.com/rivantsov/ngraphql)|<img src="https://img.shields.io/github/stars/rivantsov/ngraphql?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/rivantsov/ngraphql?style=for-the-badge&label=" />|Server
 
 
 # HashMap 
