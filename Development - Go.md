@@ -48,6 +48,8 @@ traefik |[traefik/traefik](https://github.com/traefik/traefik)|<img src="https:/
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 gqlgen|[99designs/gqlgen](https://github.com/99designs/gqlgen)|<img src="https://img.shields.io/github/stars/99designs/gqlgen?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/99designs/gqlgen?style=for-the-badge&label=" />|
+graphql-go-handler|[graphql-go/handler](https://github.com/graphql-go/handler)|<img src="https://img.shields.io/github/stars/graphql-go/handler?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-go/handler?style=for-the-badge&label=" />|
+
 
 # Http Client
 Name| Address |Desc
