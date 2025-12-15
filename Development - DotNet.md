@@ -196,6 +196,9 @@ Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 GraphQL Server|[graphql-dotnet/server](https://github.com/graphql-dotnet/server)|<img src="https://img.shields.io/github/stars/graphql-dotnet/server?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-dotnet/server?style=for-the-badge&label=" />| Server
 GraphQL for .NET|[graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)|<img src="https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-dotnet/graphql-dotnet?style=for-the-badge&label=" />|Server
+ChilliCream GraphQL Platform|[ChilliCream/graphql-platform](https://github.com/ChilliCream/graphql-platform)|<img src="https://img.shields.io/github/stars/ChilliCream/graphql-platform?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/ChilliCream/graphql-platform?style=for-the-badge&label=" />|Server
+GraphQL.Net|[chkimes/graphql-net](https://github.com/chkimes/graphql-net)|<img src="https://img.shields.io/github/stars/chkimes/graphql-net?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/chkimes/graphql-net?style=for-the-badge&label=" />|Server
+Entity GraphQL|[EntityGraphQL/EntityGraphQL](https://github.com/EntityGraphQL/EntityGraphQL)|<img src="https://img.shields.io/github/stars/EntityGraphQL/EntityGraphQL?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/EntityGraphQL/EntityGraphQL?style=for-the-badge&label=" />|Server
 
 
 # HashMap 
