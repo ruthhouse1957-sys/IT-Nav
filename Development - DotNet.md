@@ -188,9 +188,15 @@ Microsoft.AspNetCore.Localization|[dotnet/aspnetcore/tree/main/src/Middleware/Lo
 C# SCADA|[GavinYellow/SharpSCADA](https://github.com/GavinYellow/SharpSCADA)|<img src="https://img.shields.io/github/stars/GavinYellow/SharpSCADA?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/GavinYellow/SharpSCADA?style=for-the-badge&label=" />|
 
 # GraphQL
+Name| Address |Desc
+-|-|-|
+graphql.org|[graphql.org/community/tools-and-libraries/?tags=server&tags=c-net](https://graphql.org/community/tools-and-libraries/?tags=server&tags=c-net)|
+
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
-GraphQL Server|[graphql-dotnet/server](https://github.com/graphql-dotnet/server)|<img src="https://img.shields.io/github/stars/graphql-dotnet/server?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-dotnet/server?style=for-the-badge&label=" />|
+GraphQL Server|[graphql-dotnet/server](https://github.com/graphql-dotnet/server)|<img src="https://img.shields.io/github/stars/graphql-dotnet/server?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-dotnet/server?style=for-the-badge&label=" />| Server
+GraphQL for .NET|[graphql-dotnet/graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet)|<img src="https://img.shields.io/github/stars/graphql-dotnet/graphql-dotnet?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/graphql-dotnet/graphql-dotnet?style=for-the-badge&label=" />|Server
+
 
 # HashMap 
 Name| Address | Star| Last Update|Desc
