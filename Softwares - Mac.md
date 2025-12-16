@@ -111,6 +111,7 @@ Cap  |[CapSoftware/Cap](https://github.com/CapSoftware/Cap)|<img src="https://im
 Name| Address | Star| Last Update| Desc
 -|-|-|-|-|
 KeepingYouAwake|[newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)|<img src="https://img.shields.io/github/stars/newmarcel/KeepingYouAwake?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/newmarcel/KeepingYouAwake?style=for-the-badge&label=" />|
+Amphetamine|[x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer)|<img src="https://img.shields.io/github/stars/x74353/Amphetamine-Enhancer?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/x74353/Amphetamine-Enhancer?style=for-the-badge&label=" />|
 
 
 
