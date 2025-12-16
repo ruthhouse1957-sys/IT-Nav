@@ -4,6 +4,12 @@ Collection of .NET libraries, tools, frameworks and software.
 Awesome .NET|[quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet)|<img src="https://img.shields.io/github/stars/quozd/awesome-dotnet?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/quozd/awesome-dotnet?style=for-the-badge&label=" />|
 Awesome .NET Core|[thangchung/awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core)|<img src="https://img.shields.io/github/stars/thangchung/awesome-dotnet-core?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/thangchung/awesome-dotnet-core?style=for-the-badge&label=" />|
 
+# Unclassified
+﻿Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+Polly  |[App-vNext/Polly](https://github.com/App-vNext/Polly)|<img src="https://img.shields.io/github/stars/App-vNext/Polly?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/App-vNext/Polly?style=for-the-badge&label=" />|
+
+
 
 # 非法词(敏感词)检测
 ﻿Name| Address | Star| Last Update|Desc
