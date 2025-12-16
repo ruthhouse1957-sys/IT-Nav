@@ -8,6 +8,7 @@ Awesome .NET Core|[thangchung/awesome-dotnet-core](https://github.com/thangchung
 ﻿Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 Polly  |[App-vNext/Polly](https://github.com/App-vNext/Polly)|<img src="https://img.shields.io/github/stars/App-vNext/Polly?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/App-vNext/Polly?style=for-the-badge&label=" />|
+Polly-Samples|[App-vNext/Polly-Samples](https://github.com/App-vNext/Polly-Samples)|<img src="https://img.shields.io/github/stars/App-vNext/Polly-Samples?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/App-vNext/Polly-Samples?style=for-the-badge&label=" />|
 
 
 
