@@ -19,6 +19,13 @@ Name| Address | Star| Last Update|Desc
 swag|[swaggo/swag](https://github.com/swaggo/swag)|<img src="https://img.shields.io/github/stars/swaggo/swag?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/swaggo/swag?style=for-the-badge&label=" />|
 gin-swagger|[swaggo/gin-swagger](https://github.com/swaggo/gin-swagger)|<img src="https://img.shields.io/github/stars/swaggo/gin-swagger?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/swaggo/gin-swagger?style=for-the-badge&label=" />|
 
+# Cache
+Memory
+Name| Address | Star| Last Update|Desc
+-|-|-|-|-|
+LRU|[hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)|<img src="https://img.shields.io/github/stars/hashicorp/golang-lru?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/hashicorp/golang-lru?style=for-the-badge&label=" />|
+
+
 # Configuration 
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
