@@ -24,6 +24,7 @@ Memory
 Name| Address | Star| Last Update|Desc
 -|-|-|-|-|
 LRU|[hashicorp/golang-lru](https://github.com/hashicorp/golang-lru)|<img src="https://img.shields.io/github/stars/hashicorp/golang-lru?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/hashicorp/golang-lru?style=for-the-badge&label=" />|
+go-cache|[patrickmn/go-cache](https://github.com/patrickmn/go-cache)|<img src="https://img.shields.io/github/stars/patrickmn/go-cache?style=for-the-badge&label=" />|<img src="https://img.shields.io/github/last-commit/patrickmn/go-cache?style=for-the-badge&label=" />|
 
 
 # Configuration 
